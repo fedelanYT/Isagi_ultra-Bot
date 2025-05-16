@@ -28,18 +28,18 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/525544876071'
+global.creador = 'Wa.me/5491156178758'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/525544876071'
-global.namechannel = '⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 '
-global.namegrupo = ' 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 ⏤͟͞ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 '
+global.asistencia = 'Wa.me/5491156178758'
+global.namechannel = '𝐏𝐨𝐰𝐞𝐫 𝐥𝐞𝐠𝐞𝐧𝐝'
+global.namegrupo = ' 𝐏𝐨𝐰𝐞𝐫 𝐥𝐞𝐠𝐞𝐧𝐝 `𝐬 𝐜𝐥𝐮𝐛 💙'
+global.namecomu = '𝐏𝐨𝐰𝐞𝐫 𝐥𝐞𝐠𝐞𝐧𝐝 `𝐬 𝐜𝐥𝐮𝐛'
 global.listo = '⚔️ *Aquí tienes perra*'
 
 //Ids channel
-global.idchannel = '120363307694217288@newsletter'
-global.canalIdM = ["120363307694217288@newsletter", "120363307694217288@newsletter"]
-global.canalNombreM = ["⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ", "㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 "]
+global.idchannel = '120363402097425674@newsletter'
+global.canalIdM = ["120363402097425674@newsletter", "120363402097425674@newsletter"]
+global.canalNombreM = ["=͟͟͞👑𝐏𝐨𝐰𝐞𝐫 𝐥𝐞𝐠𝐞𝐧𝐝 '𝐬 𝐜𝐥𝐮𝐛⏤͟͟͞͞★ ", "𝐏𝐨𝐰𝐞𝐫 𝐥𝐞𝐠𝐞𝐧𝐝 '𝐬 𝐜𝐥𝐮𝐛"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -64,8 +64,8 @@ global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w'  
-let canal2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w'
+var canal = 'https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N'  
+let canal2 = 'https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N'
 var git = 'https://github.com/thecarlos19' 
 var youtube = '' 
 var github = 'https://github.com/thecarlos19/black-clover-MD' 
