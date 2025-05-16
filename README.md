@@ -58,7 +58,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD&& cd black-clover-MD
+git clone https://github.com/fedelanYT/Isagi_ultra-Bot && cd Isagi_ultra-Bot
 ```
 
 ```bash
