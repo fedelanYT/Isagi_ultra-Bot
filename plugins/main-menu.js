@@ -42,7 +42,7 @@ let tags = {
 };
 
 const defaultMenu = {
-  before:  ` 𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃
+  before:  ` 💙𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃💙
 
 ╒═════〔 *I N F O • U S E R* 〕
 │ ⟶ 𝙽𝚘𝚖𝚋𝚛𝚎     : %name
@@ -58,7 +58,7 @@ const defaultMenu = {
 ╘═════════════════
 
 %readmore
-        𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃
+        𝐓𝐀𝐍𝐉𝐈𝐑𝐎-𝐁𝐎𝐓
 El mejor bot de WhatsApp 🥵
 `.trimStart(),
   header: '`✧͜͡҉MENU %category⛤⃗͜ᬏ᭄`\n\n┌─⋅☆·̇·̣̇̇·̣̣̇·̣̇̇·̇⸼݇҉ֻ᠂⃟🥷୨୧┈┈┈୨୧⸼݇҉ֻ᠂⃟⚔️·̇·̣̇̇·̣̣̇·̣̇̇☆─⋅┐',
@@ -185,7 +185,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       },
     ];
 
-    let img = 'https://files.catbox.moe/a9ep9c.jpg';
+    let img = 'https://files.catbox.moe/uk12hd.jpg';
     await m.react('💙');
 
     await conn.sendMessage(
