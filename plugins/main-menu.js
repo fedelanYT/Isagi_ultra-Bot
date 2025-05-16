@@ -185,7 +185,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       },
     ];
 
-    let vid = 'https://files.catbox.moe/mfsbdv.mp4';
+    let video = 'https://files.catbox.moe/mfsbdv.mp4';
     await m.react('💙');
 
     await conn.sendMessage(
