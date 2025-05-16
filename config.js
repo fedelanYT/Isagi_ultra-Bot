@@ -40,16 +40,16 @@ global.blackJadibts = true
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃`
-global.author = `♾━━━━━━━━\n⇝͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃 ☘͟ `;
-global.wm = '𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃';
-global.titulowm = '𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃 ☘';
+global.packname = `𝘛𝘈𝘕𝘑𝘐𝘙𝘖-𝘉𝘖𝘛`
+global.author = `♾━━━━━━━━\n⇝͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝘛𝘈𝘕𝘑𝘐𝘙𝘖-𝘉𝘖𝘛 ☘͟ `;
+global.wm = '𝘛𝘈𝘕𝘑𝘐𝘙𝘖-𝘉𝘖𝘛';
+global.titulowm = '𝐓𝐀𝐍𝐉𝐈𝐑𝐎-𝐁𝐎𝐓 ☘';
 global.igfg = 'ᥫ𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
-global.botname = '𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃 ☘'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ FEDELANYT⚡'
-global.textbot = '𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃  : 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
-global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
-global.namechannel = '𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃 / 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.botname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 ☘'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛⚡'
+global.textbot = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 : 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.gt = '͟͞𝙏𝘼𝙉𝙅𝙄𝙍𝙊-𝘽𝙊𝙏☘͟͞';
+global.namechannel = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 / 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
