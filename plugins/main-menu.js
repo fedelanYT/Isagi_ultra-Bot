@@ -42,7 +42,7 @@ let tags = {
 };
 
 const defaultMenu = {
-  before:  ` 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘
+  before:  ` 𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃
 
 ╒═════〔 *I N F O • U S E R* 〕
 │ ⟶ 𝙽𝚘𝚖𝚋𝚛𝚎     : %name
@@ -58,7 +58,7 @@ const defaultMenu = {
 ╘═════════════════
 
 %readmore
-        𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘
+        𝙸𝚂𝙰𝙶𝙸_𝙱𝙾𝚃
 El mejor bot de WhatsApp 🥵
 `.trimStart(),
   header: '`✧͜͡҉MENU %category⛤⃗͜ᬏ᭄`\n\n┌─⋅☆·̇·̣̇̇·̣̣̇·̣̇̇·̇⸼݇҉ֻ᠂⃟🥷୨୧┈┈┈୨୧⸼݇҉ֻ᠂⃟⚔️·̇·̣̇̇·̣̣̇·̣̇̇☆─⋅┐',
@@ -185,8 +185,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       },
     ];
 
-    let img = 'https://qu.ax/hEwPa.jpg';
-    await m.react('⚔️');
+    let img = 'https://files.catbox.moe/a9ep9c.jpg';
+    await m.react('💙');
 
     await conn.sendMessage(
       m.chat,
