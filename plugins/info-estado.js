@@ -3,7 +3,7 @@ let handler = async (m, { conn, usedPrefix, isRowner}) => {
 let _muptime
 let totalreg = Object.keys(global.db.data.users).length
 let totalchats = Object.keys(global.db.data.chats).length
-let pp = "https://files.catbox.moe/8lfoj3.jpg"
+let pp = "https://files.catbox.moe/1um2tn.jpg"
 if (process.send) {
 process.send('uptime')
 _muptime = await new Promise(resolve => {
@@ -21,8 +21,8 @@ let neww = performance.now()
 let speed = neww - old
 const used = process.memoryUsage()
 let megumin = ` \`\`\`Información - 
-blackclover\`\`\` ⚔️\n\n`
-megumin += `🍄 *◜Creador◞* ⇢ the-carlos\n`
+Tanjiro-Bot\`\`\` 💙\n\n`
+megumin += `🍄 *◜Creador◞* ⇢ fedelanYT\n`
 megumin += `❗️ *◜Prefijo◞* ⇢ [ ${usedPrefix} ]\n`
 megumin += `🌺꙰ *◜Versión◞* ⇢ ${vs}\n`
 megumin += `🌻꙰ *◜Chats Privados◞* ⇢ ${chats.length - groupsIn.length}\n`
